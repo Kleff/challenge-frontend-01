@@ -1,0 +1,11 @@
+.logo {
+  background-color: #262e38;
+  border: none;
+  width: 45px;
+  height: 45px;
+  border-radius: 100%;
+  color: #848d96;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

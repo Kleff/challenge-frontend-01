@@ -1,0 +1,28 @@
+.card-thanks-container {
+  max-width: 297px;
+  border-radius: 30px;
+  background: rgb(24, 31, 41);
+  background: linear-gradient(
+    0deg,
+    rgba(24, 31, 41, 1) 0%,
+    rgba(33, 39, 51, 1) 100%
+  );
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.card-thanks-title {
+  color: #fcffff;
+  margin-top: 30px;
+  margin-bottom: 0px;
+}
+
+.card-thanks-description {
+  color: #848d96;
+  font-size: 13px;
+  line-height: 20px;
+  margin-bottom: 30px;
+  text-align: center;
+}
